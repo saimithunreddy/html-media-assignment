@@ -1,0 +1,3 @@
+int-int data type takes 2 bytes
+bool-bool data type takes 4 bytes
+float-float data type takes 4 bytes

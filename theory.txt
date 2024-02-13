@@ -1,0 +1,1 @@
+"physics" and "wallah" in two different lines we write using of<<endl; and \n.
